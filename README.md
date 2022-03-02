@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repo](https://github.com/rohitKumar38344/Frontend-Mentor---Social-proof-section-solution)
+- Live Site URL: [solution](https://social-proof-section-soln.netlify.app/)
 
 ## My process
 
